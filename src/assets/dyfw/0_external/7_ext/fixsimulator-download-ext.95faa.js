@@ -1,0 +1,1 @@
+try{if(CC_SIMULATOR&&(window.CC_SIMULATOR=CC_SIMULATOR,CC_SIMULATOR)){const c=window.__quick_compile_project__.destPath,a=cc.path.dirname(cc.path.dirname(cc.path.dirname(cc.path.dirname(c))));window.deviceDataPath=a}}catch(error){}

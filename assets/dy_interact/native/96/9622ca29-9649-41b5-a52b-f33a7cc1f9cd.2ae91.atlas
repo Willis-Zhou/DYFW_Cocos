@@ -1,0 +1,20 @@
+
+ui_shouzhi.png
+size: 137,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 47, 3
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 2, 61
+  size: 125, 137
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
